@@ -29,5 +29,5 @@ public class SaleService implements Serializable{
 		LocalDate max = maxDate.equals("") ? today : LocalDate.parse(maxDate);
 		return sr.findSales(min, max, pageable);
 	}
-
+		//https://www.youtube.com/watch?v=lgZnMqPBtdU&t=2233s
 }
