@@ -33,11 +33,11 @@ public class SalesController {
 	
 	@GetMapping("/notification")
 	public void notifySms() {
-		smsService.sendSms();
+		//smsService.sendSms();
 	}
 	
 	@GetMapping("/{id}/notification2")
 	public void notifySms2(@PathVariable Long id) {
-		smsService.sendSms2(id);
+		//smsService.sendSms2(id);
 	}
 }
