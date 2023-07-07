@@ -31,7 +31,7 @@
 - http://localhost:3000/
 <br><br>
 
-## Comando para gerar imagem docker da aplicação
-- docker build -t cadastro:tag .
-- docker build -t app .
+## Paginas de controle de vendas
+![Captura de tela de 2023-07-07 19-05-38](https://github.com/Ernilson/Monoreto-java-react/assets/30840118/74452823-3b83-4590-a921-93c7fcbe9a8d)
+![Captura de tela de 2023-07-07 19-06-02](https://github.com/Ernilson/Monoreto-java-react/assets/30840118/0b78a66b-6e1c-447d-a103-d657df5a8a62)
 
