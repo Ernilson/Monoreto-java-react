@@ -9,6 +9,7 @@
 - JDK 8
 - IDE Eclipse (STS4)
 - Maven
+- Vscode
 - Node.js
 - npm
 
@@ -29,6 +30,7 @@
 - mvn clean install
 
 ## EXECUTE - FRONT-END
+- npm install
 - npm run dev
 
 ## Acesso ao Frontend do Projeto
