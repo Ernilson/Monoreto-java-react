@@ -9,6 +9,8 @@
 - JDK 8
 - IDE Eclipse (STS4)
 - Maven
+- Node.js
+- npm
 
 ## Frameworks e Tecnologias:
 - Spring Boot / Data
@@ -16,6 +18,8 @@
 - Hibernate
 - Padrão MVC
 - Testes de Integração com JUnit 5
+- React.js
+- Next.js
 
 ## Banco de Dados:
 - Mysql
